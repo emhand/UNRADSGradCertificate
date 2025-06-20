@@ -1,0 +1,1 @@
+This folder contains instructor and student resources for DATA 601 - Computational Thinking at UNR. Instructor resources are intended as a jumping off point, allowing instructors to customize the course content for their students.
